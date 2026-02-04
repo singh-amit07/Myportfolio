@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Internship() {
 
-  const CERT_LINK = "/certificates/internship.pdf"; // ← change only this if file name changes
+  const CERT_LINK = "/certificates/six crore.jpeg"; // ← change only this if file name changes
 
   return (
     <section className="px-8 md:px-16 py-28 text-center">
